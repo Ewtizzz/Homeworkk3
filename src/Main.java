@@ -7,7 +7,7 @@ public class Main {
         int fourBytes = 2147483647;
         long eightBytes = 922337203;
         float veryBigNumber = 100000000;
-        double insaneBigNumber = 1000000000;
+        double insaneBigNumber = 100000000;
 
         System.out.println("Значение переменной oneByte с типом byte равно " + oneByte);
         System.out.println("Значение переменной twoBytes с типом short равно " + twoBytes);
